@@ -33,6 +33,7 @@ Click the "Predict" button to generate predictions.
 View the predicted stock prices plotted on the chart.
 
 Demo
+![Web 1920 – 1](https://github.com/maheshwagh2003/Stock-Price_Predictor/assets/77723262/9bddace8-ab01-4787-a690-8cfab4b8ca93)
 
 Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any problems or have suggestions for improvements.
