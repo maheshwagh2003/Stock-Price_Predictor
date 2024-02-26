@@ -24,7 +24,8 @@ date = x.strftime("%Y-%m-%d")
 st.title('Stock Price Prediction')
 st.subheader('Mahesh Wagh')
 
-st.markdown('To Study Stock Trends, Go to: [click here](https://stock-trend-prediction-maheshwagh.streamlit.app/){:target="_blank"}')
+link = 'To Study Stock Graph Trends: <a href="https://stock-trend-prediction-maheshwagh.streamlit.app/" target="_blank">Click Here</a>'
+st.markdown(link, unsafe_allow_html=True)
 
 
 
