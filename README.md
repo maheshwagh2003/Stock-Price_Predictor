@@ -12,6 +12,7 @@ Installation
 Clone the repository:
 
 bash
+
 Copy code
 git clone https://github.com/maheshwagh2003/stock-price-predictor.git
 Install the required dependencies:
@@ -30,6 +31,7 @@ Enter the stock symbol of interest into the input field.
 Select the desired prediction horizon (e.g., 1 day, 5 days, etc.).
 Click the "Predict" button to generate predictions.
 View the predicted stock prices plotted on the chart.
+
 Demo
 
 Contributing
