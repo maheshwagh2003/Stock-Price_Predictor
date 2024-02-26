@@ -142,7 +142,7 @@ X_train_close =  X_train_open.reshape( X_train_close.shape[0],  X_train_close.sh
 X_test_close = X_test_open.reshape(X_test_close.shape[0], X_test_close.shape[1], 1)
 
 from keras.models import load_model
-model = load_model("keras_model.keras")
+model = load_model("keras_model.h5")
 
 #Open
 train_predict_open = model.predict(X_train_open)
