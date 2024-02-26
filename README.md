@@ -37,7 +37,6 @@ Predictions:
 ![Web 1920 – 1](https://github.com/maheshwagh2003/Stock-Price_Predictor/assets/77723262/9bddace8-ab01-4787-a690-8cfab4b8ca93)
 
 Actual Values:
-![Group 1](https://github.com/maheshwagh2003/Stock-Price_Predictor/assets/77723262/f1e0d3bc-34d8-42e1-960b-4d7e7edcdf67)
 
 Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any problems or have suggestions for improvements.
