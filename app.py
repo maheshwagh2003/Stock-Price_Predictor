@@ -76,7 +76,7 @@ user_input = st.text_input('Enter Stock Ticker', 'TSLA')
 days_input = st.number_input('Enter Number of days to be predicted', step=1)
 
 
-yf.download()
+data = yf.download()
 data = pdr.get_data_yahoo(user_input, period='5y', interval='1d')
 
 df = data.reset_index()
