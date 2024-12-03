@@ -3,7 +3,7 @@ pandas
 matplotlib
 pandas_datareader
 pandas_datareader
-yfinance
+yfinance==0.1.87
 datetime
 keras
 streamlit
